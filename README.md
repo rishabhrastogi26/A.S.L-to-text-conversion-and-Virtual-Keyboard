@@ -1,1 +1,1 @@
-# A.S.L-to-text-conversion-and-Virtual-Keyboard
+# American Sign Language-to-text-conversion-and-Virtual-Keyboard
