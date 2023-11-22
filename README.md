@@ -7,7 +7,7 @@
   => Initialization:-
       •	Initializes variables for image size, labels, hand detector, and classifier models.
   => Video Processing:-
-      • Opens webcam and captures frames./n
+      • Opens webcam and captures frames.\n
       •	Detects hands using a hand detector model.
       •	Crops and resizes the image based on the hand bounding box.
   => Classification:-
