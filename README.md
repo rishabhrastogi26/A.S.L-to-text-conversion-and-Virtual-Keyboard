@@ -1,11 +1,10 @@
 # American Sign Language-to-text-conversion-and-Virtual-Keyboard
-
-
-# ASL Detection:
+# American Sign Language-to-text-conversion
+  => ASL Detection:-  
       •      Utilizes computer vision and machine learning.  
-      •      Real-time hand gesture recognition from webcam video input.  
-  => Initialization:-
-      •	Initializes variables for image size, labels, hand detector, and classifier models.  
+      •      Real-time hand gesture recognition from webcam video input.   
+  => Initialization:-  
+      •	Initializes variables for image size, labels, hand detector, and classifier models.   
   => Video Processing:-  
       • Opens webcam and captures frames.  
       •	Detects hands using a hand detector model.  
@@ -21,10 +20,7 @@
       •	Closes file object, destroys window, and releases webcam.  
   => Output:-  
       •	Returns a rendered HTML template.  
-
-
-
-#Virtual keyboard   
+# Virtual keyboard   
   =>	Input Technology:  
       •	Utilizes a virtual keyboard with a blue pointer for tactile-free typing.  
   =>	Implementation Libraries:  
