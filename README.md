@@ -1,9 +1,9 @@
 # American Sign Language-to-text-conversion-and-Virtual-Keyboard
 
 
-#	ASL Detection:
-      •	Utilizes computer vision and machine learning.
-      •	Real-time hand gesture recognition from webcam video input.
+# ASL Detection:
+      • Utilizes computer vision and machine learning.
+      • Real-time hand gesture recognition from webcam video input.
   => Initialization:-
       •	Initializes variables for image size, labels, hand detector, and classifier models.
   => Video Processing:-
