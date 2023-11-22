@@ -1,4 +1,4 @@
-# American Sign Language-to-text-conversion-and-Virtual-Keyboard
+# American Sign Language to text conversion Using CNN, OpenCV, wxPython, and other libraries  and Virtual Keyboard OpenCV, wxPython, and other libraries
 # American Sign Language-to-text-conversion
   => ASL Detection:-  
       •      Utilizes computer vision and machine learning.  
